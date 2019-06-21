@@ -1,0 +1,24 @@
+body {
+    font-family: "Arial", Arial, serif;
+}
+button {
+    margin: 20px;
+}
+table {
+    border: 1px solid midnightblue;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 20px;
+}
+
+td,
+th {
+    background: #D8E6F3;
+    padding: 20px;
+}
+th:first-child, td:first-child {
+    text-align: left;
+}
+tr {
+    height: 20px;
+}
