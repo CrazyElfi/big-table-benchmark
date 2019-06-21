@@ -1,4 +1,17 @@
-[
+[: "artem",
+        "profile_name": "artem_profile",
+        "exp_years": "22 years",
+        "key_skills": [
+            "css",
+            "jQ",
+            "jQ"
+        ]
+    },
+    {
+        "name": "valera",
+        "profile_name": "valera_profile",
+        "exp_years": "21 years",
+        "key_skills": [
     {
         "name": "artem",
         "profile_name": "artem_profile",
